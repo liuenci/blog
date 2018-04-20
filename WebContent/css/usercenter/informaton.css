@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size:20px;
+}
+
+body html {
+	font-family: "微软雅黑";
+}
+
+.biao {
+	margin-top: 50px;
+	margin-left: 200px;
+}
+
+.yh {
+	width: 100px;
+	height: 50px;
+}
+
+.in {
+	width: 500px;
+	outline:0;
+	text-indent:10px;
+}
+
+.gx {
+	margin-top: 20px;
+	margin-left: 400px;
+}
+
+.lefttd {
+	vertical-align: top;
+}
+
+.ta {
+	width: 500px;
+	height: 200px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+	outline:0;
+	resize:none;
+	text-indent:10px;
+}

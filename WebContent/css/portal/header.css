@@ -1,0 +1,45 @@
+@charset "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+}
+#nav_div{
+	width:100%;
+	height:50px;
+	background-color:#FFFFFF;
+	box-shadow:0 0 1px 0 #ECECEC;
+}
+.name_div{
+	width:100px;
+	height:50px;
+	line-height:50px;
+ 	margin-left:10px;
+ 	text-align:center;
+	float:left;
+}
+.name_div:hover{
+	cursor:pointer;
+}
+.nav_list_div{
+	width:1000px;
+	height:50px;
+	float:right;
+}
+#nav_list{
+	float:left;
+	margin-left:450px;
+	list-style:none;
+}
+#nav_list li{
+	font-family:Microsoft YaHei;
+	font-size:14px;
+	text-align:center;
+	width:80px;
+	height:50px;
+	line-height:50px;
+	float:left;
+}
+#nav_list li:hover{
+	color:#EC509A;
+	cursor:pointer;
+}

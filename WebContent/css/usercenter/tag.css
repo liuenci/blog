@@ -1,0 +1,99 @@
+@CHARSET "UTF-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body html {
+	font-family: "微软雅黑";
+}
+thead{
+	height: 36px;
+	line-height: 36px;
+}
+tbody{
+	height: 50px;
+	line-height: 50px;
+}
+.bq {
+	width: 100%;
+	background-color: #F1F1F1;
+}
+
+.bq1 {
+	width: 420px;
+	float: left;
+}
+
+.bqt {
+	color: black;
+	margin-top: 15px;
+	margin-left: 10px;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+.tjbq {
+	margin-left: 10px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.tjmc {
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+.bqxg {
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+.bqmc {
+	width: 300px;
+	height: 30px;
+	text-indent:10px;
+}
+
+.bqjs {
+	margin-top: 5px;
+	margin-left: 15px;
+	color: gray;
+	font-size: 14px;
+}
+
+.tjwc {
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 100px;
+	height: 35px;
+	font-weight: bold;
+	color: white;
+	background-color: deepskyblue;
+}
+
+.bq2 {
+	width: 685px;
+	float: left;
+	margin-left: 10px;
+}
+
+table {
+	width: 650px;
+	border-right: 1px solid #e5e5e5;
+	border-bottom: 1px solid #e5e5e5;
+	background-color: #FFFFFF;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+}
+
+table tr td {
+	border: 1px solid #e5e5e5;
+	text-align: center;
+}
+#tag-origin-name{
+	width:250px;
+	height:30px;
+	outline:none;
+	text-indent:10px;
+}

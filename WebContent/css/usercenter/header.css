@@ -1,0 +1,53 @@
+@charset "UTF-8";
+*{
+	margin:0px;
+	height:0px;
+}
+a{
+	text-decoration: none;
+}
+#header{
+	width:100%;
+	height:50px;
+	line-height:50px;
+	background-color:black;
+	color:white;
+}
+label{
+	float:right;
+	font-size:16px;
+	margin-right:10px;
+}
+.site{
+	width:100px;
+	height:40px;
+	float:left;
+}
+.new_article{
+	height:30px;
+	float:left;
+	margin-left:10px;
+	font-size:16px;
+}
+.new_article a{
+	color:white;
+}
+.new_article:hover{
+	cursor:pointer;
+}
+.site_img{
+	width:18px;
+	height:18px;
+	float:left;
+	margin-top:15px;
+	margin-left:5px;
+}
+.site span{
+	margin-left:5px;
+	font-size:16px;
+	color:white;
+	font-weight:400;
+}
+.site:hover{
+	cursor:pointer;
+}
